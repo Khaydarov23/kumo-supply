@@ -1,1 +1,1 @@
-# kumo-suply
+# kumo-supply
